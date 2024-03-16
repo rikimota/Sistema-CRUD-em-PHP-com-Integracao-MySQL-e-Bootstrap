@@ -1,0 +1,18 @@
+.lista_foto {
+    object-fit: cover;
+    width: 60px;
+    height: 60px;
+    border-radius: 70px;
+}
+
+.mostra_foto {
+    width: 250px;
+}
+
+.table-hover {
+    text-align: center;
+}
+
+.teste {
+    vertical-align: middle;
+}
