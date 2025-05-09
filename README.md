@@ -8,7 +8,9 @@ Sistema CRUD em PHP com MySQL e Bootstrap
 
 ## 📕 Sobre
 
-Este sistema consiste em um **sistema de gerenciamento de dados desenvolvido em PHP, integrado com um banco de dados MySQL e utilizando a framework Bootstrap para a interface de usuário,** com funcionalidades de criação, leitura, atualização e exclusão de registros(CRUD). O sistema oferece uma solução eficiente e intuitiva para o armazenamento e manipulação de informações. Os usuários podem interagir com o sistema através de uma interface amigável, facilitando o acesso e a gestão de dados de forma ágil e organizada.
+Este sistema foi desenvolvido como parte da disciplina de **Desenvolvimento Web** durante a graduação, com o objetivo de aplicar conceitos essenciais de **engenharia de software** e **desenvolvimento full stack**. A aplicação consiste em um **sistema de gerenciamento de dados** com operações **CRUD** (Create, Read, Update, Delete), desenvolvido em **PHP** e integrado a um banco de dados **MySQL** para persistência das informações.
+
+A interface do usuário foi construída com o framework **Bootstrap**, proporcionando uma experiência visual agradável, **responsiva** e de fácil navegação. O projeto demonstra domínio prático em **back-end**, **manipulação de banco de dados** e **construção de interfaces web modernas**, além de boas práticas na organização do código, integração entre front-end e back-end e uso de tecnologias amplamente adotadas no mercado.
 
 ## ⚙ Tools
 
